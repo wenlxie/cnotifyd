@@ -1,0 +1,4 @@
+github.com/s3rj1k/go-fanotify/fanotify v0.0.0-20191125112157-eb8b6ee54e02 h1:RiweWzge9KgaZNZ1g/3koKR4hh5+fyZPfgzSDKAf40U=
+github.com/s3rj1k/go-fanotify/fanotify v0.0.0-20191125112157-eb8b6ee54e02/go.mod h1:wiP6GQ2T378F+YIyuNw7yXtBxJZR+fqrrn1Z6UHZi0Q=
+golang.org/x/sys v0.0.0-20191120155948-bd437916bb0e h1:N7DeIrjYszNmSW409R3frPPwglRwMkXSBzwVbkOjLLA=
+golang.org/x/sys v0.0.0-20191120155948-bd437916bb0e/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
